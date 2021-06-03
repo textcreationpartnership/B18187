@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisement. As there is hardly any thing of this world more deservingly welcome to mankinde, than health and long life ...</title>
+            <author>Bromfield, M.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18187</idno><idno type="EEBO-CITATION">99888645_195935</idno>
+  <idno type="VID">195935</idno>
+  <idno type="EEBO-PROQUEST">2264183463</idno>
+  
+            <idno type="STC">Wing B4884A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[57]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[130]</idno>
+            <idno type="STC">ESTC R231389</idno>
+            <idno type="PROQUEST">ocm99888645</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888645e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195935)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[57], E8:1[131])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advertisement. As there is hardly any thing of this world more deservingly welcome to mankinde, than health and long life ...</title>
+                  <author>Bromfield, M.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of text: M. Bromfield.</note>
+                  <note>With a list of merchants, Mr. Henry Brome, Bookseller [and 19 others].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_pills">
+            <pb n="1" facs="tcp:195935:1"/>
+            <head>ADVERTISEMENT.</head>
+            <p>AS there is hardly any thing of this World more deservingly welcome to Mankinde, than Health and Long-Life; so wha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever contributes most thereunto, ought to have a fair reception and high value in the thoughts of all men: Yet from those in health I do not ex<g ref="char:EOLhyphen"/>pect any great care for, o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> admiration of any thing, that may restore the diseased, since themselves are well, and see not any Malady approaching.</p>
+            <p>Though if even these laid in (whilst it were to be had) a <hi>REMEDY</hi> for prevention of Diseases, and to be ready against the day of Sickness, it were no imprudence, especially when the Medicine pro<g ref="char:EOLhyphen"/>posed for these purposes, has the vogue and allow<g ref="char:EOLhyphen"/>ance of a Nation, for the most excellent was ever published.</p>
+            <p>But my intent herein is, chiefly to speak to those are Indisposed, Ill, or Sick; to these it is I offer that mo<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sovereign Medicine, called <hi>PILULAE IN OMNES MORBOS;</hi> or, <hi>Pills against all Diseases:</hi> which all unbyassed per<g ref="char:EOLhyphen"/>sons (who have knowledge of them, and do heart<g ref="char:EOLhyphen"/>ly desire the good of their diseased Neighbours) do in all parts cry up, as the most excellent Medicine was ever in like manner publickly disposed of.</p>
+            <p>I shall not here need to rack, nor, will I in the least strain my invention for high commendations of my Pill, nor ever shall: which, were I inclined to, yet have I no need to use such unworthy ways, since the worth and virtues of my Medicine are al<g ref="char:EOLhyphen"/>ready very well known to a great part of the peo<g ref="char:EOLhyphen"/>ple in the Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Therefore my designe hereby is only in plain words, suited to the meanest capacity, to reminde the people of my Pills, which have been amongst them now about Six years, and I hope I may bold-say, with such admirable success, that but few or none who have taken them (according to the Di<g ref="char:EOLhyphen"/>rections in my Book, always given with them) have found them less effectual in answering their expectations, than in reason they could desire.</p>
+            <p>And indeed, as to their Innocency, Safety, and Health-procuring Qualities, I do appeal to the greater part of the people of the Kingdom, who, I am fully perswaded, are able to give some consi<g ref="char:EOLhyphen"/>derable account of <hi>BROMFIELD</hi>'s PILLS, either from their own experience in taking them, or by relation of their worth from others, who have made trial of them: Therefore I request all per<g ref="char:EOLhyphen"/>sons, not satisfied of them by their own know<g ref="char:EOLhyphen"/>ledge, or relation of their worth and virtues from Acquaintants, that they would before they meddle with them, g<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve themselves full satisfaction by en<g ref="char:EOLhyphen"/>quiry, (as indeed is mightily requisite in a matter of such high concern as is Health, nay, perhaps Life it self) thereby <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o streng<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen their good liking and opinion of the <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dicine; which may signifie full as much towards Cur<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Distemper, as the Pati<g ref="char:EOLhyphen"/>ent's good opinion of his Physician, which all grant to be necessary.</p>
+            <lg>
+               <l>
+                  <hi>This to the wise man may suffice,</hi>
+               </l>
+               <l>
+                  <hi>Though not to him that's otherwise.</hi>
+               </l>
+            </lg>
+            <p>And now to satisfie those who may be curious to know why I have not herein given an account of the Names and Places of Dwelling of such as have been cured by my Pills; I answer, Because I intend such brevity, that what I print may appear to the Reader, at first sight, not likely to spend very much of his time to peruse: for I have often made it my observation, that what of this kind seems tedious, not one of twenty cares to read through; and thence the thing becomes lost to the Author, and of little or no use to him that receives it.</p>
+            <p>Yet I must confess, that in my <hi>Quarto</hi> Book, al<g ref="char:EOLhyphen"/>ways given with each-Box of Pills when sold, are printed very many considerable and wonderful Cures performed by my Pills, upon persons of very good Reputation and Quality, with plain directi<g ref="char:EOLhyphen"/>ons to their several places of Dwelling; whereby any one may satisfie himself, as to the worth of them, and whether they have really wrought such admirable Cures or no. In the said Book are also printed the abstracts of several Letters from per<g ref="char:EOLhyphen"/>sons of worth, written to acquaint me with the wonderful effects of my Pills, and what strange and unexpected Cures they had wrought upon them<g ref="char:EOLhyphen"/>selves and Friends.</p>
+            <p>But these are standing Cures, and such as I have a considerable time printed, and as the people are throughly satisfied are truth; and were it not for these very reasons, all those Cures, with the Names and Dwelling-places of the persons on whom they were wrought, might be left out of my Book, and the people be refered only to their own Expe<g ref="char:EOLhyphen"/>rience, or report of Acquaintants, for their satis<g ref="char:EOLhyphen"/>faction of the worth and virtues of my Pills.</p>
+            <p>I have a few words more in reference to the <hi>Book</hi> above-mentioned, on purpose to acquaint you, that in it are plainly laid down the chief Causes, Signs, and Effects of that most reigning Disease, the <hi>SCURVY;</hi> the Causes, Signs, and (sometimes killing) Effects of the Virgin or Maiden Disease, called the <hi>White Fever,</hi> or <hi>GREEN SICKNESS;</hi>
+               <pb n="2" facs="tcp:195935:2"/>a Discou se of the Causes, Signs, and sad Effects of <hi>WORMS</hi> in the Bodies of Men, Women▪ and Children; the Causes, Signes, and Effects of <hi>DROPSIES;</hi> with full and plain Directions how to use my Pills for cure against any of the said Diseases, or other Maladies curable by Physick. Wherein also is much other Discourse of great use and benefit.</p>
+            <p>The said Book I allow all those appointed to dispose of my Pills, to give freely with each Box they sell.</p>
+            <p>Now if the Reader be indisposed, (ill or sick) I desire he will impartially consider what hath been said; and if he have no knowledge of my Pill him<g ref="char:EOLhyphen"/>self, I again request he will inform himself by en<g ref="char:EOLhyphen"/>quiry, whether it be for his purpose or no; and then if he meet with a Character of it suitable to that herein given, it cannot be presumed he will do otherwise than most readily accept what is so likely, and stands so fair in the opinion of most men who have knowledge of it, not only to pre<g ref="char:EOLhyphen"/>vent Diseases, by sweetning and purifying the Blood, and gently carrying off corruptions and foul<g ref="char:EOLhyphen"/>ness of the Body, but also to cure many dangerous and deplorable Distempers incident to Mankind, if my Pill be taken before the Patient be too far gone or spent with the Disease.</p>
+            <p>What I have more to say, is to request, that the Reader will not judge the worse of me or my Pills, because I have not herein commended them with high-strained praises and boastings; which way of setting off any thing, I am very sure, the wise man likes not, yet is it used by too many, to draw in and catch the ignorant; but such a me<g ref="char:EOLhyphen"/>thod I abhor, and scorn to use: therefore have chose plainly to write the truth; and if that will prevail with the people to accept what is honestly offered for their good, 'tis well; if not, I heartily desire no diseased persons meet with any worse ad<g ref="char:EOLhyphen"/>vice than that herein given them by</p>
+            <closer>
+               <signed>M. Bromfield.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_distributors">
+            <p>My PILLS are disposed of in Tin-boxes sealed up with my Seal at Arms, being a <hi>Lion Passant Guardant;</hi> the larger Box containing Eighty Pills (or within two or three more or fewer) being Six shillings; the middle Box of Forty Pills (or within one or two more or less) is Three shillings; and the lesser Box of Nineteen or Twenty Pills is Eighteen pence, and are to be sold by</p>
+            <list>
+               <item>Mr. <hi>Henry Brome,</hi> Bookseller, at the Gun neer the West-end of St. <hi>Pauls</hi> Church.</item>
+               <item>Mr. <hi>Rob. Boulter,</hi> Bookseller at the Turks<g ref="char:EOLhyphen"/>head against the Exchange in <hi>Cornhil.</hi>
+               </item>
+               <item>Mr. <hi>John Starkey,</hi> Bookseller at the Mitre in <hi>Fleet-street</hi> near <hi>Temple-bar.</hi>
+               </item>
+               <item>Mr. <hi>James Allen,</hi> Haberdasher of Hats, at the Hat against the Bull-Inne within <hi>Bishopsgate.</hi>
+               </item>
+               <item>Mr. <hi>Francis Ashburne,</hi> at the Bodies and Sleeves in <hi>Cheapside</hi> neer <hi>Friday-street.</hi>
+               </item>
+               <item>Mr. <hi>John Painter,</hi> Coffee-man above the Royal Exchange in <hi>Cornhil.</hi>
+               </item>
+               <item>Mr. <hi>Preston,</hi> Bookseller next the Fleece-Tavern neer <hi>Grays</hi>-Inne-gate in <hi>Holborn.</hi>
+               </item>
+               <item>Mrs. <hi>Lion,</hi> Grocer at the Tobacco-Roll at little <hi>Queen-street-end</hi> in <hi>High-Holborn.</hi>
+               </item>
+               <item>Mr. <hi>John Bayns,</hi> Tin-man at the Bird-cage at <hi>Cock-lane-end</hi> against <hi>Holborn-conduit.</hi>
+               </item>
+               <item>Mr. <hi>Magnes,</hi> Bookseller at the Post-house in <hi>Russel-street, Covent-Garden.</hi>
+               </item>
+               <item>Mrs. <hi>Duke,</hi> Coffee-seller against the Star-Inne in the <hi>Strand</hi> neer <hi>Charing-cross.</hi>
+               </item>
+               <item>Mrs. <hi>Alkin,</hi> Confectioner at the Lion and Ball against <hi>Cree</hi>-church in <hi>Leaden hall-street.</hi>
+               </item>
+               <item>Mr. <hi>Tuthil,</hi> Bookseller at the Chirurgeons Sign neer the <hi>Armitage</hi>-bridge.</item>
+               <item>Mr. <hi>Butcher,</hi> Distiller at the Plow and Still against the <hi>George</hi>-Inne in <hi>Southwark.</hi>
+               </item>
+               <item>Mr. <hi>Tho. Chew,</hi> Distiller at the Green-man neer <hi>Smithfield-bars.</hi>
+               </item>
+               <item>Mr. <hi>Daniel Bennet,</hi> Cutler in <hi>Exchange-alley</hi> in <hi>Cornhil.</hi>
+               </item>
+               <item>Mrs. <hi>Pierson,</hi> Distiller at the Golden Still a<g ref="char:EOLhyphen"/>gainst the Mitre-Tavern in <hi>Kings-street, Westminster.</hi>
+               </item>
+               <item>Mr. <hi>Milward</hi> at <hi>Westminster hall gate.</hi>
+               </item>
+               <item>Mr. <hi>John Flaxmore,</hi> at the Maiden-head neer Cherry-garden-stairs on <hi>Redrif-wall.</hi>
+               </item>
+               <item>Mr. <hi>Cross-deal,</hi> Chandler next the Kings-head neer <hi>Battle-bridge</hi> in <hi>Tooly-street.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>And are also to be sold at my own House at the Blue Balls in Plow-yard in Fetter-lane, London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
